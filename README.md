@@ -2,14 +2,12 @@
 
 The goal was to experiment with **basic** kinematics and get familiar with simulation and real-time plotting.
 
+The GUI is built using Qt6, with real-time graphs powered by QCustomPlot.
+The physics is implemented using simple Euler integration, updated in a fixed timestep loop.
+
 ## Preview
 
 ![App screenshot](assets/preview.png)
-
-## Download
-
-You can download the executable from the releases section:
-https://github.com/your-user/your-repo/releases
 
 ## How to build
 
